@@ -9,7 +9,10 @@ My name is Alex and I'm mainly learning about backend development
 <img align="left" img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="SHELL"/>
 <img align="left" img src="https://aleen42.github.io/badges/src/photoshop.svg" alt="PHOTOSHOP/>
 <br/>
-
+<br/>
+<br/>
+<br/>
+                                                                                    
 ### Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prothyte&layout=compact&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prothyte&count_private=true&theme=tokyonight)
